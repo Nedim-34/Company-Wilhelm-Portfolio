@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Webpage portfolio which includes NEXT.JS, REACT and TAILWIND CSS for modern portfolio Website. I add the animation using Framer mode and light/dark mode switch option. And this webpage will automatically detect the light and dark mode from your laptop / computer preference of theme.
+
+
 ## Getting Started
 
 First, run the development server:
